@@ -9,7 +9,7 @@ Summary:	Kernel module for Exar USB RS-485 converter
 Group:		System Environment/Kernel
 License:	GPLv2
 URL:		https://github.com/elemc/epsolar-tracer/tree/master/xr_usb_serial_common-1a
-Source0:	%{module_name}-%{version}.tar.xz
+Source0:	http://repo.elemc.name/sources/%{module_name}-%{version}.tar.xz
 Source1:	dkms.conf
 Source2:	%{module_name}-blacklist.conf
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
