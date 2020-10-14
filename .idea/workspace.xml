@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9c9c7dc-443c-47ab-a661-4372b98f7e2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/xr_usb_serial_common-1a/dkms-xr_usb_serial_common.spec" beforeDir="false" afterPath="$PROJECT_DIR$/xr_usb_serial_common-1a/dkms-xr_usb_serial_common.spec" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="qqxochb8" />
+  </component>
+  <component name="ProjectId" id="1irhFMFmwmcZqrJX2LJ0H2Zf87H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9c9c7dc-443c-47ab-a661-4372b98f7e2b" name="Default Changelist" comment="" />
+      <created>1602671514745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602671514745</updated>
+      <workItem from="1602671516352" duration="3259000" />
+    </task>
+    <task id="LOCAL-00001" summary="added files for build RPM on copr">
+      <created>1602674348538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602674348538</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added files for build RPM on copr">
+      <created>1602674741416</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602674741416</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changed Source0 file path">
+      <created>1602675058393</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602675058393</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added files for build RPM on copr" />
+    <MESSAGE value="changed Source0 file path" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed Source0 file path" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="664" y="440" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602671895342">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="664" y="440" key="#com.intellij.fileTypes.FileTypeChooser/3232.-1200.1920.1200/-128.-1890.3360.1890/0.0.2048.1280@0.0.2048.1280" timestamp="1602671895342" />
+    <state x="1056" y="-1457" key="CommitChangelistDialog2" timestamp="1602675058298">
+      <screen x="-128" y="-1890" width="3360" height="1890" />
+    </state>
+    <state x="1056" y="-1457" key="CommitChangelistDialog2/3232.-1200.1920.1200/-128.-1890.3360.1890/0.0.2048.1280@-128.-1890.3360.1890" timestamp="1602675058298" />
+    <state x="525" y="279" key="SettingsEditor" timestamp="1602671949172">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="525" y="279" key="SettingsEditor/3232.-1200.1920.1200/-128.-1890.3360.1890/0.0.2048.1280@0.0.2048.1280" timestamp="1602671949172" />
+    <state x="1152" y="-1209" key="Vcs.Push.Dialog.v2" timestamp="1602675059860">
+      <screen x="-128" y="-1890" width="3360" height="1890" />
+    </state>
+    <state x="1152" y="-1209" key="Vcs.Push.Dialog.v2/3232.-1200.1920.1200/-128.-1890.3360.1890/0.0.2048.1280@-128.-1890.3360.1890" timestamp="1602675059860" />
+  </component>
+</project>
